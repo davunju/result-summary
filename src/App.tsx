@@ -6,7 +6,7 @@ import iconVisual from "./assets/icon-visual.svg";
 export default function App() {
   return (
     <div>
-      <div className="flex bg-white shadow-3xl max-w-[30rem] mx-auto my-[9rem] rounded-2xl max-[500px]:flex-col max-[500px]:max-w-[300px] max-[500px]:my-[1rem]">
+      <div className="flex bg-white shadow-2xl max-w-[30rem] mx-auto my-[9rem] rounded-3xl max-[500px]:flex-col max-[500px]:max-w-[300px] max-[500px]:my-[1rem]">
         <section className="rounded-3xl text-white p-6 text-center bg-gradient-to-b from-background1 to-background2">
           <h1 className="opacity-80 mb-3 text-slate-200 font-semibold">
             Your Result
