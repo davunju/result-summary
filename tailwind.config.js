@@ -21,12 +21,6 @@ export default {
         LightLavender: "hsl(241, 100%, 89%)",
         DarkGrayBlue: "hsl(224, 30%, 27%)",
       },
-      gradientColorStops: {
-        background: "(hsl(252, 100%, 67%), hsl(241, 81%, 54%))",
-      },
-      screens: {
-        mobile: "375px",
-      },
     },
   },
   plugins: [],
